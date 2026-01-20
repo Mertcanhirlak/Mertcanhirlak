@@ -7,7 +7,7 @@ With a highly **analytical mindset**, I am obsessed with **efficiency**—both i
 - 🔭 I’m currently building a **[Digital Banking System](https://github.com/Mertcanhirlak/BankBackend-API)**.
   - *Features:* **AI Financial Advisor** (Semantic Kernel), **Redis Caching** (Cache-Aside), and **Auto-Risk Management** (PostgreSQL Triggers).
 - 🚀 I implement **DevOps best practices** using **Docker** and **GitHub Actions** for CI/CD.
-- 🌍 Open to opportunities in **Europe, USA, Canada and Australia**.
+- 🌍 Open to opportunities in **Europe, USA, Canada, and Australia**.
 
 ---
 
@@ -37,13 +37,13 @@ With a highly **analytical mindset**, I am obsessed with **efficiency**—both i
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mertcanhirlak&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Mertcan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcanhirlak&layout=compact&theme=gotham&hide_border=true&exclude_repo=Data_Science_AI_Project" height="150" alt="Top Languages" />
 </div>
+
 ---
 
 ### 📫 Connect with Me
