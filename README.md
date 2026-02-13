@@ -40,8 +40,8 @@ With a highly **analytical mindset**, I am obsessed with **efficiency**—both i
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mertcanhirlak&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Mertcan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcanhirlak&layout=compact&theme=gotham&hide_border=true&exclude_repo=Data_Science_AI_Project" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mertcanhirlak&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Mertcan's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mertcanhirlak&layout=compact&theme=gotham&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
