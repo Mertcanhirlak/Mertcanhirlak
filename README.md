@@ -4,7 +4,7 @@ I'm a **Computer Engineering Student** focused on **Backend Development**. My go
 
 With a highly **analytical mindset**, I am obsessed with **efficiency**—both in my code and in my life. I am an avid reader of **productivity and personal development** books, constantly seeking ways to optimize my workflow.
 
-- 🔭 I’m currently building a **[Digital Banking System](https://github.com/Mertcanhirlak/BankBackend-API)**.
+- 🔭 My latest project is a **[Digital Banking System](https://github.com/Mertcanhirlak/BankBackend-API)**.
   - *Features:* **AI Financial Advisor** (Semantic Kernel), **Redis Caching** (Cache-Aside), and **Auto-Risk Management** (PostgreSQL Triggers).
 - 🚀 I implement **DevOps best practices** using **Docker** and **GitHub Actions** for CI.
 
