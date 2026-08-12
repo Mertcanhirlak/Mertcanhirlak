@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Mertcan Hırlak 👋
-### **Software Engineer | Backend & Systems Focus (.NET / C#)**
+### **Computer Engineer | Backend & Systems Focus (.NET / C#)**
 
 *Building scalable backend architectures, specializing in Spatial Data (GIS), AI Integration, and DevOps practices.*
 
