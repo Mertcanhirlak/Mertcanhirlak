@@ -72,7 +72,7 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Architecture** | `C#` `.NET 8/10` `Java` `Clean Architecture` `REST APIs` `xUnit` `OOP``Rust` |
+| **Backend & Architecture** | `C#` `.NET 8/10` `Java` `Clean Architecture` `REST APIs` `xUnit` `OOP` `Rust` |
 | **Spatial & AI Integration**| `PostGIS` `GIS / Spatial Data (WKT)` `Microsoft Semantic Kernel (AI)` |
 | **Database & Caching** | `PostgreSQL` `Redis (Cache-Aside)` `DB Triggers & Functions` |
 | **DevOps & Tools** | `Docker` `GitHub Actions (CI/CD)` `Git` `Linux` |
