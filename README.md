@@ -15,12 +15,13 @@
 
 ### 🚀 About Me
 
-I am a **Computer Engineering Student** passionate about designing high-performance backend systems and enterprise architectures. My core focus lies in **.NET / C# development**, enriched with practical domain expertise in **Spatial Data (GIS)**, **AI Agent Integration**, and modern **DevOps practices**.
+I am a **Computer Engineering Student** passionate about designing high-performance backend systems, efficient software architectures, and enterprise solutions. My core focus lies in **.NET / C# development**, enriched with practical domain expertise in **Spatial Data (GIS)**, **AI Agent Integration**, and modern **DevOps practices**.
 
-With a strong analytical mindset and a dedication to process efficiency, I enjoy taking complex real-world problems—from geographic spatial decision systems to AI-powered financial advisory—and turning them into robust, clean software solutions.
+With a strong analytical mindset and a research-oriented approach to engineering, I continuously explore ways to optimize system efficiency, code performance, and architectural maintainability—from geographic spatial decision support systems to AI-driven backend services.
 
 - 🏆 Experienced in **leading engineering teams** on commercial-ready GIS platforms as well as **solo-architecting** complex backend ecosystems.
-- 🔭 Currently expanding my expertise in **Rust**, **Cloud Native Architecture (AWS/Azure)**, and **Container Orchestration (Kubernetes)**.
+- 🔬 Actively researching & implementing **high-efficiency backend architectures**, performance optimization, and scalable system design.
+- 🔭 Currently expanding my expertise in **Cloud Native Infrastructure (AWS/Azure)** and **Container Orchestration (Kubernetes)**.
 
 ---
 
@@ -84,7 +85,7 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 ### 🎯 Current Learning & Growth Roadmap
 
-- 🦀 **Systems Programming:** Exploring Rust for high performance and low-level memory safety.
+- ⚡ **High-Efficiency Backend Design:** Researching memory optimization, high-throughput API patterns, and caching strategies.
 - ☁️ **Cloud Native Infrastructure:** Deepening AWS & Azure cloud deployment concepts.
 - 📦 **Container Orchestration:** Mastering Kubernetes cluster management.
 - ⚙️ **Observability:** Integrating OpenTelemetry, Grafana & Prometheus monitoring into .NET backends.
@@ -108,8 +109,8 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 > **Bilgisayar Mühendisliği Öğrencisi | Backend & Sistem Geliştirici**
 > 
-> Yüksek performanslı backend mimarileri, .NET / C# ekosistemi, Java, Rust, Coğrafi Bilgi Sistemleri (GIS / PostGIS) ve Yapay Zeka entegrasyonu (Semantic Kernel) konularında projeler geliştiriyorum. 
+> Yüksek performanslı ve verimli backend mimarileri, .NET / C# ekosistemi, Coğrafi Bilgi Sistemleri (GIS / PostGIS) ve Yapay Zeka entegrasyonu (Semantic Kernel) konularında projeler ve araştırmalar yürütüyorum. 
 > 
-> Başarsoft staj sürecinde ticari seviyedeki **GeoVolt** projesinde ekip liderliği ve çekirdek geliştiricilik yaptım. Bireysel olarak ise Clean Architecture, Redis Caching ve AI Finansal Danışman içeren **BankBackend-API** projesini kurguladım. Hedefim Backend, Rust ve DevOps/Cloud Native alanlarında derinleşerek uçtan uca ölçeklenebilir sistemler inşa etmektir.
+> Başarsoft staj sürecinde ticari seviyedeki **GeoVolt** projesinde ekip liderliği ve çekirdek geliştiricilik yaptım. Bireysel olarak ise Clean Architecture, Redis Caching ve AI Finansal Danışman içeren **BankBackend-API** projesini kurguladım. Hedefim backend mimarilerinde verimlilik ve ölçeklenebilirlik üzerine derinleşerek yüksek standartlı sistemler inşa etmektir.
 
 </details>
