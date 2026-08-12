@@ -20,7 +20,7 @@ I am a **Computer Engineering Student** passionate about designing high-performa
 With a strong analytical mindset and a dedication to process efficiency, I enjoy taking complex real-world problems—from geographic spatial decision systems to AI-powered financial advisory—and turning them into robust, clean software solutions.
 
 - 🏆 Experienced in **leading engineering teams** on commercial-ready GIS platforms as well as **solo-architecting** complex backend ecosystems.
-- 🔭 Currently expanding my expertise in **Cloud Native Architecture (AWS/Azure)** and **Container Orchestration (Kubernetes)**.
+- 🔭 Currently expanding my expertise in **Rust**, **Cloud Native Architecture (AWS/Azure)**, and **Container Orchestration (Kubernetes)**.
 
 ---
 
@@ -31,7 +31,7 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
     <td width="50%" valign="top">
       <h3 align="center">⚡ GeoVolt</h3>
       <p align="center"><b>EV Charging Station Candidate Location SDSS</b></p>
-      <p><i> Commercial-Ready Team Project | Tech Lead & Core Developer at Başarsoft</i></p>
+      <p align="center"><i>Commercial-Ready Team Project | Tech Lead & Core Developer at Başarsoft</i></p>
       <hr>
       <ul>
         <li>An interactive Spatial Decision Support System determining optimal EV charging station locations using Multi-Criteria Decision Analysis (MCDA) and Hexagonal Grids (H3).</li>
@@ -44,7 +44,7 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
     <td width="50%" valign="top">
       <h3 align="center">🏦 BankBackend-API</h3>
       <p align="center"><b>Enterprise AI-Powered Banking API</b></p>
-      <p><i> Individual Project | End-to-End Architecture</i></p>
+      <p align="center"><i>Individual Project | End-to-End Architecture</i></p>
       <hr>
       <ul>
         <li>A high-performance banking API built with Clean Architecture, featuring an AI Financial Advisor (Microsoft Semantic Kernel), Redis Caching, and DB Risk Triggers.</li>
@@ -63,6 +63,7 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 * 🚌 **[MapCepte](https://github.com/Mertcanhirlak/MapCepte):** Public transportation route, stop geometry, and live fleet management platform built with .NET 10 API, PostgreSQL/PostGIS, React, TypeScript, and MapLibre.
 * 🌐 **[Başarsoft CBS Web](https://github.com/Mertcanhirlak/basarsoft_cbs_web):** Web-GIS application enabling spatial geometry creation (Point, LineString, Polygon) stored as WKT in PostGIS.
+* 🏢 **[Java Prison Management System](https://github.com/Mertcanhirlak/Java-Prison-Management-System):** OOP-focused management system built with Java.
 * 🏬 **reha-spor-frontend:** Modern corporate catalog web application built with Next.js 14 App Router and TypeScript.
 </details>
 
@@ -72,16 +73,18 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Architecture** | `C#` `.NET 8/10` `Java` `Clean Architecture` `REST APIs` `xUnit` `OOP` `Rust` |
+| **Languages & Core** | `C#` `.NET 8/10` `Java` `Rust` `C` `TypeScript` |
+| **Backend & Architecture** | `Clean Architecture` `RESTful APIs` `xUnit` `OOP & System Design` |
 | **Spatial & AI Integration**| `PostGIS` `GIS / Spatial Data (WKT)` `Microsoft Semantic Kernel (AI)` |
 | **Database & Caching** | `PostgreSQL` `Redis (Cache-Aside)` `DB Triggers & Functions` |
-| **DevOps & Tools** | `Docker` `GitHub Actions (CI/CD)` `Git` `Linux` |
-| **Frontend & Web** | `TypeScript` `React` `Next.js` `Tailwind CSS` |
+| **DevOps & Infrastructure** | `Docker` `GitHub Actions (CI/CD)` `Git` `Linux` |
+| **Frontend & Web** | `React` `Next.js` `Tailwind CSS` |
 
 ---
 
 ### 🎯 Current Learning & Growth Roadmap
 
+- 🦀 **Systems Programming:** Exploring Rust for high performance and low-level memory safety.
 - ☁️ **Cloud Native Infrastructure:** Deepening AWS & Azure cloud deployment concepts.
 - 📦 **Container Orchestration:** Mastering Kubernetes cluster management.
 - ⚙️ **Observability:** Integrating OpenTelemetry, Grafana & Prometheus monitoring into .NET backends.
@@ -105,8 +108,8 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 > **Bilgisayar Mühendisliği Öğrencisi | Backend & Sistem Geliştirici**
 > 
-> Yüksek performanslı backend mimarileri, .NET / C# ekosistemi, Coğrafi Bilgi Sistemleri (GIS / PostGIS) ve Yapay Zeka entegrasyonu (Semantic Kernel) konularında projeler geliştiriyorum. 
+> Yüksek performanslı backend mimarileri, .NET / C# ekosistemi, Java, Rust, Coğrafi Bilgi Sistemleri (GIS / PostGIS) ve Yapay Zeka entegrasyonu (Semantic Kernel) konularında projeler geliştiriyorum. 
 > 
-> Başarsoft staj sürecinde ticari seviyedeki **GeoVolt** projesinde ekip liderliği ve çekirdek geliştiricilik yaptım. Bireysel olarak ise Clean Architecture, Redis Caching ve AI Finansal Danışman içeren **BankBackend-API** projesini kurguladım. Hedefim Backend ve DevOps/Cloud Native alanlarında derinleşerek uçtan uca ölçeklenebilir sistemler inşa etmektir.
+> Başarsoft staj sürecinde ticari seviyedeki **GeoVolt** projesinde ekip liderliği ve çekirdek geliştiricilik yaptım. Bireysel olarak ise Clean Architecture, Redis Caching ve AI Finansal Danışman içeren **BankBackend-API** projesini kurguladım. Hedefim Backend, Rust ve DevOps/Cloud Native alanlarında derinleşerek uçtan uca ölçeklenebilir sistemler inşa etmektir.
 
 </details>
