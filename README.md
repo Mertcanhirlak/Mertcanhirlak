@@ -95,8 +95,8 @@ With a strong analytical mindset and a dedication to process efficiency, I enjoy
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mertcanhirlak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcanhirlak&layout=compact&theme=tokyonight&hide=html,css" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Mertcanhirlak&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mertcanhirlak&theme=tokyonight&hide_border=true" />
 
 </div>
 
