@@ -97,7 +97,7 @@ With a strong analytical mindset and a research-oriented approach to engineering
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mertcanhirlak&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mertcanhirlak&theme=tokyonight" />
+
 
 </div>
 
