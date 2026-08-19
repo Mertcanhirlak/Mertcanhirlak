@@ -96,11 +96,15 @@ With a strong analytical mindset and a research-oriented approach to engineering
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Mertcanhirlak&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=Mertcanhirlak&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Mertcanhirlak?label=Followers&style=for-the-badge&logo=github&color=1a1b27" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-Pro%20Developer-2ea44f?style=for-the-badge&logo=github" alt="GitHub Pro" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mertcanhirlak&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mertcanhirlak&theme=tokyo-night&hide_border=true&area=true" alt="Mertcan's GitHub Activity Graph" />
 
 </div>
 
