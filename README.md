@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mertcan Hırlak 👋
+# Hi there, I'm Mertcan 👋
 ### **Computer Engineer | Backend & Systems Focus (.NET / C#)**
 
 *Building scalable backend architectures, specializing in Spatial Data (GIS), AI Integration, and DevOps practices.*
