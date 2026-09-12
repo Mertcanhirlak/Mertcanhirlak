@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Engineering Student** passionate about designing high-performance backend systems, efficient software architectures, and enterprise solutions. My core focus lies in **.NET / C# development**, enriched with practical domain expertise in **Spatial Data (GIS)**, **AI Agent Integration**, and modern **DevOps practices**.
+I am a **Computer Engineering Student** passionate about designing high-performance backend systems, efficient software architectures, and enterprise solutions. My core focus lies in **.NET / C# development**, complemented by hands-on experience in **PHP-based web development** and practical domain expertise in **Spatial Data (GIS)**, **AI Agent Integration**, and modern **DevOps practices**.
 
 With a strong analytical mindset and a research-oriented approach to engineering, I continuously explore ways to optimize system efficiency, code performance, and architectural maintainability—from geographic spatial decision support systems to AI-driven backend services.
 
@@ -74,7 +74,7 @@ With a strong analytical mindset and a research-oriented approach to engineering
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages & Core** | `C#` `.NET 8/10` `Java` `Rust` `C` `TypeScript` |
+| **Languages & Core** | `C#` `.NET 8/10` `PHP` `Java` `Rust` `C` `TypeScript` |
 | **Backend & Architecture** | `Clean Architecture` `RESTful APIs` `xUnit` `OOP & System Design` |
 | **Spatial & AI Integration**| `PostGIS` `GIS / Spatial Data (WKT)` `Microsoft Semantic Kernel (AI)` |
 | **Database & Caching** | `PostgreSQL` `Redis (Cache-Aside)` `DB Triggers & Functions` |
@@ -116,7 +116,7 @@ With a strong analytical mindset and a research-oriented approach to engineering
 
 > **Bilgisayar Mühendisliği Öğrencisi | Backend & Sistem Geliştirici**
 > 
-> Yüksek performanslı ve verimli backend mimarileri, .NET / C# ekosistemi, Coğrafi Bilgi Sistemleri (GIS / PostGIS) ve Yapay Zeka entegrasyonu (Semantic Kernel) konularında projeler ve araştırmalar yürütüyorum. 
+> Yüksek performanslı ve verimli backend mimarileri, .NET / C# ekosistemi, PHP tabanlı web geliştirme, Coğrafi Bilgi Sistemleri (GIS / PostGIS) ve Yapay Zeka entegrasyonu (Semantic Kernel) konularında projeler ve araştırmalar yürütüyorum. 
 > 
 > Başarsoft staj sürecinde ticari seviyedeki **GeoVolt** projesinde ekip liderliği ve çekirdek geliştiricilik yaptım. Bireysel olarak ise Clean Architecture, Redis Caching ve AI Finansal Danışman içeren **BankBackend-API** projesini kurguladım. Hedefim backend mimarilerinde verimlilik ve ölçeklenebilirlik üzerine derinleşerek yüksek standartlı sistemler inşa etmektir.
 
