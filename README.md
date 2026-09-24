@@ -5,6 +5,9 @@
 
 *Building scalable backend architectures, specializing in Spatial Data (GIS), AI Integration, and DevOps practices.*
 
+**Want the full picture?** Explore my portfolio for selected projects, engineering experience, and technical focus.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mertcanhirlak.vercel.app/tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mertcan_H%C4%B1rlak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcan-hirlak/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mertcanhirlak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mertcanhirlak)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertcanhirlak@gmail.com)
